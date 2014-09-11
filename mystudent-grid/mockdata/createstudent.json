@@ -1,0 +1,18 @@
+{
+    "message": "Student Added Successfully",
+    "success": true,
+    "data": [
+        {
+            "Courses": null,
+            "Id": 338,
+            "address1": "",
+            "address2": "",
+            "birthDate": null,
+            "city": "",
+            "firstName": "test",
+            "lastName": "",
+            "middleName": "",
+            "state": ""
+        }
+    ]
+}
